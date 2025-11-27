@@ -2,14 +2,14 @@
   "name": "Simple KPI Card",
   "organization": "Mamun BI",
   "description": "Custom HTML KPI card for Looker Studio",
-  "logoUrl": "https://mamun-b1.github.io/looker-simple-kpi/icon.png",
-  "organizationUrl": "https://mamun-b1.github.io",
+  "logoUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+  "organizationUrl": "https://github.com",
   "components": [
     {
       "id": "simple_kpi_card",
       "name": "Simple KPI Card",
       "description": "Displays a single KPI in a styled card.",
-      "iconUrl": "https://mamun-b1.github.io/looker-simple-kpi/icon.png",
+      "iconUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       "resource": {
         "js": "index.js",
         "html": "index.html"
