@@ -11,8 +11,10 @@
       "description": "Displays a single KPI in a styled card.",
       "iconUrl": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       "resource": {
-        "js": "index.js",
-        "html": "index.html"
+        "main": {
+          "js": "index.js",
+          "html": "index.html"
+        }
       }
     }
   ]
