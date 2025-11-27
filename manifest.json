@@ -1,0 +1,19 @@
+{
+  "name": "Simple KPI Card",
+  "organization": "Your Name",
+  "description": "Custom HTML KPI card for Looker Studio",
+  "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+  "organizationUrl": "https://github.com",
+  "components": [
+    {
+      "id": "simple_kpi_card",
+      "name": "Simple KPI Card",
+      "description": "Displays a single KPI in a styled card.",
+      "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+      "resource": {
+        "js": "index.js",
+        "html": "index.html"
+      }
+    }
+  ]
+}
